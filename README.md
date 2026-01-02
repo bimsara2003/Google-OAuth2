@@ -227,11 +227,6 @@ http://localhost:8080/login/oauth2/code/google
 * [Google OAuth2 Documentation](https://developers.google.com/identity/protocols/oauth2)
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -243,10 +238,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://github.com/bimsara2003)
+[@bimsara2003](https://github.com/bimsara2003)
 
 ---
 
 ## ⭐ Show Your Support
 
 Give a ⭐️ if this project helped you!
+
