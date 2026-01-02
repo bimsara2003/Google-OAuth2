@@ -26,7 +26,7 @@ To get your Client ID and Secret, follow these steps:
     http://localhost:8080/login/oauth2/code/google
     ```
 7.  Click **Create**.
-8.  **IMPORTANT:** Copy your `Client ID` and `Client Secret`. **Do not share these!**
+8.  **IMPORTANT:** Copy `Client ID` and `Client Secret`. **Do not share these!**
 
 ---
 
@@ -43,3 +43,4 @@ Add the following dependency to your `pom.xml` (Maven):
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
 </dependency>
+
