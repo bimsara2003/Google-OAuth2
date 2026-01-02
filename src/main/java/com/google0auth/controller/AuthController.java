@@ -8,11 +8,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api")
 public class AuthController {
 
-    @GetMapping("public")
+    @GetMapping("/public")
     public String method1() {
          return "this is the public method1";
     }
-    @GetMapping("private")
+    @GetMapping("/private")
     public String method2() {
             return "this is the public method2";
     }
